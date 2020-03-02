@@ -1,0 +1,8 @@
+Have you ever wanted to check your mailbox from the comfort of your home?
+Now you can! With just one press of a button, you will know the answer
+to the age-old question: do you have mail, or not?
+
+A school project I made with a friend. It consists of two LoLin D1 mini,
+one with a pressure sensor to put in your mailbox, and the other one with
+a button and an OLED display to put in your home. Press the button, and
+the OLED will show a text indicating whether you've got mail or not.
